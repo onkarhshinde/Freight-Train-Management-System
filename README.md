@@ -13,9 +13,8 @@
 - [System Components](#system-components)
 - [Installation](#installation)
 - [Demo Video](#demo-video)
-  
-- [Technologies Used](#technologies-used)
-- [Credits](#credits)
+- [Conclusion](#conclusion)
+- [Contact](#contact)
 
 ## Features
 
@@ -72,8 +71,14 @@
    - You should see the login page of the Freight Train Management System.
 
 ## Demo Video
+Click this link for a complete working demo video of the app: 
+[demo_video](https://iitgoffice-my.sharepoint.com/:v:/g/personal/h_shinde_iitg_ac_in/Ea4UxAUC_b9Ekpw4lDlBXu4BW2TrcEBE4TTYZ3rkwKi8Mg?e=aiaNrb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-<iframe src="https://iitgoffice-my.sharepoint.com/:v:/g/personal/h_shinde_iitg_ac_in/Ea4UxAUC_b9Ekpw4lDlBXu4BW2TrcEBE4TTYZ3rkwKi8Mg?e=AHnZt0&download=1">
-    Your browser does not support embedded videos. Click <a href="https://iitgoffice-my.sharepoint.com/:v:/g/personal/h_shinde_iitg_ac_in/Ea4UxAUC_b9Ekpw4lDlBXu4BW2TrcEBE4TTYZ3rkwKi8Mg?e=AHnZt0&download=1">here</a> to view.
-</iframe>
 
+## Conclusion
+
+The Freight Train Management System aims to streamline cargo transportation logistics with features like optimized scheduling, real-time monitoring, and enhanced customer satisfaction. The project addresses significant challenges and sets a foundation for ongoing refinement and innovation in freight logistics.
+
+## Contact
+
+For more information, contact Onkar Shinde at [onkarhshinde@gmail.com](mailto:onkarhshinde@gmail.com).
