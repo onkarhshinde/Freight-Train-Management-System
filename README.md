@@ -10,9 +10,9 @@
 - [Features](#features)
    - [User Features](#user-features)
    - [Admin Features](#admin-features)
+- [Demo Video](#demo-video)
 - [System Components](#system-components)
 - [Installation](#installation)
-- [Demo Video](#demo-video)
 - [Conclusion](#conclusion)
 - [Contact](#contact)
 
@@ -30,6 +30,11 @@
 - **Station Management:** Manage station details.
 - **Real-Time Updates:** Receive real-time updates on train schedules and changes.
 - **Refund Processing:** Initiate refund processes for canceled bookings.
+
+## Demo Video
+Click this link for a complete working demo video of the app: 
+[demo_video](https://iitgoffice-my.sharepoint.com/:v:/g/personal/h_shinde_iitg_ac_in/Ea4UxAUC_b9Ekpw4lDlBXu4BMXLN0yM2Vx7VoO7ghrxNYw)
+
 
 ## System Components
 
@@ -69,10 +74,6 @@
 5. **Run the Application:**
    - Open your web browser and navigate to `http://localhost/freight-train-management`.
    - You should see the login page of the Freight Train Management System.
-
-## Demo Video
-Click this link for a complete working demo video of the app: 
-[demo_video](https://iitgoffice-my.sharepoint.com/:v:/g/personal/h_shinde_iitg_ac_in/Ea4UxAUC_b9Ekpw4lDlBXu4BW2TrcEBE4TTYZ3rkwKi8Mg?e=aiaNrb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 ## Conclusion
